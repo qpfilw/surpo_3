@@ -1,11 +1,8 @@
 ﻿#include <iostream>
-using namespace std;
 
 int main()
 {
-	int i;
-	cin>>i;
-	if (i > 0) {
-		cout << "Very good!";
-	}
+	std::cout << "Hello World!\n";
+	std::cout << "How are you today?";
+	std::cout << "I'm fine!";
 }
